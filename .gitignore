@@ -131,7 +131,7 @@ checkpoints/
 *.zip
 *.csv
 *.7z
-*.md
+# *.md
 *.tar
 *.json
 
