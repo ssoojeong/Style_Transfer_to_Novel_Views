@@ -1,4 +1,4 @@
-# Style_Transfer_to_Novel_Views_using_Correspondences_between_Photos_and_Sketches 
+# Style Transfer to Novel Views using Correspondences between Photos and Sketches 
 
 ## &#x1F4E2; Project Overview: 2404~2406
 
